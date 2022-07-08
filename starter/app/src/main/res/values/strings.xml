@@ -6,4 +6,17 @@
     <string name="password">Password</string>
     <string name="login">Login</string>
     <string name="createlogin_button">Create</string>
+    <string name="lorem_ipsum_top">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum interdum rutrum pellentesque. Sed ut vestibulum urna, sed tempus tellus. Etiam pulvinar ornare sapien, non laoreet ante porta eget. Nulla non magna ex. Ut hendrerit erat enim, eu pulvinar metus blandit sed. Quisque iaculis et arcu sed rutrum. Ut in arcu quis est aliquam vehicula. Maecenas sed sem a diam dapibus posuere vel nec lectus. Pellentesque dapibus, leo tincidunt semper aliquet, elit lacus tincidunt urna, vitae sagittis metus turpis at arcu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris vitae enim urna. Suspendisse non mi id enim semper faucibus. </string>
+    <string name="lorem_ipsum_floor">Etiam ullamcorper lacus imperdiet augue tristique, ac consequat lorem iaculis. Curabitur interdum ac libero eu aliquam. Phasellus ultrices, turpis ac laoreet varius, nulla ipsum bibendum erat, sed aliquam libero quam in dolor. Phasellus in consequat lorem. Proin ut rutrum orci. Aenean eu ex ac erat pulvinar efficitur. Integer congue a velit at maximus. Sed volutpat ex vel scelerisque vestibulum. Vivamus rutrum elit purus. Sed blandit vel ipsum ut aliquam. Integer neque urna, pellentesque et eleifend vitae, scelerisque non sapien. Nulla quis dolor a metus molestie dapibus. Donec nisi nisl, lobortis dictum felis non, pretium facilisis risus. Pellentesque interdum tellus odio, eget bibendum dolor malesuada vel. Praesent sed sapien pharetra, aliquet lectus vel, finibus dolor. </string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome</string>
+    <string name="instruction">Instruction</string>
+    <string name="scroll_view_shoe_items">Scroll view for shoe items</string>
+    <string name="add_shoe_item_button">Tap to add a shoe item</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="company">Company</string>
+    <string name="shoe_size">Shoe size</string>
+    <string name="description">Description</string>
 </resources>

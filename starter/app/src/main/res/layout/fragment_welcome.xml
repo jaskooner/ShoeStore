@@ -7,10 +7,42 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+
+        <TextView
+            android:id="@+id/welcomeTitle_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_weight="0"
+            android:fontFamily="@font/roboto"
+            android:paddingLeft="8dp"
+            android:paddingTop="8dp"
+            android:paddingRight="8dp"
+            android:paddingBottom="8dp"
+            android:text="@string/welcome"
+            android:textAlignment="gravity"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/welcomeFloor_text"
+            android:layout_width="match_parent"
+            android:layout_height="338dp"
+            android:layout_marginLeft="8sp"
+            android:layout_marginTop="8sp"
+            android:layout_marginRight="8sp"
+            android:layout_marginBottom="8sp"
+            android:layout_weight="1"
+            android:text="@string/lorem_ipsum_floor"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/welcomeNext_button"
+            android:layout_gravity="bottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:minHeight="32dp"
+            android:text="@string/next" />
 
     </LinearLayout>
 
