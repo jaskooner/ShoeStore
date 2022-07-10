@@ -3,7 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-
+    <!-- The project rubric only mentions Lineear Layour and Constraint Layout
+     but the code is dated somewhat. I did use a Linear Layout originally instead of
+     a CardView but for a ScrollView the Card is a natural choice now
+     I had to use a Linear Layout inside the CardView to quickly organised my Text Fields
+     due to their number and for test purposes -->
 
         <androidx.cardview.widget.CardView
             android:id="@+id/shoeDetails_card"

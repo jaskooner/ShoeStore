@@ -3,6 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".WelcomeFragment">
 
+    <!-- The project only specified two text view and a button so I wanted
+    to spend my time getting the navigation right. LinearLayour was the quickest
+    and easiest way to do this -->
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"

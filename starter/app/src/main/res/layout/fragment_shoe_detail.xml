@@ -3,6 +3,10 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
+    <!-- A ConstrainLayout was used as I did not want to create a deep hierachy
+     between other Views when trying to align the Buttons, Texts and Labels
+     on the screen -->
+
     <data>
         <variable
             name="shoe"

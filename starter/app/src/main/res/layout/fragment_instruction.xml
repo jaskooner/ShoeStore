@@ -3,6 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".InstructionFragment">
 
+    <!-- Linear Layout was used as the view hierachy is not deeply nested
+    and Text Boxes and Buttons only add to appear verticallt aligned -->
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"

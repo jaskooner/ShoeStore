@@ -5,6 +5,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".LoginFragment">
 
+    <!-- A ConstrainLayout was used as I did not want to create a deep hierachy
+    between other Views when trying to align the Buttons, Texts and Labels
+     on the screen -->
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -65,6 +69,7 @@
 
         <Button
             android:id="@+id/login_button"
+            style="@style/Widget.AppCompat.Button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/login"
